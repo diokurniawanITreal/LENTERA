@@ -1,4 +1,4 @@
-# laprak_mobile
+# LENTERA - Sistem Layanan Informasi Harian Ramah Akses Bagi Tunanetra berbasis mobile
 
 A new Flutter project.
 
