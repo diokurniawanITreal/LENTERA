@@ -1,5 +1,7 @@
 # LENTERA - Sistem Layanan Informasi Harian Ramah Akses Bagi Tunanetra berbasis mobile
 
+Aplikasi yang menyediakan informasi harian bagi tunanetra seperti hari, tanggal, waktu, perkiraan cuaca, dan lokasi saat ini. Dan terintegrasi dengan AI Gemini untuk membantu menjawab pertanyaan umum lainnya.
+
 A new Flutter project.
 
 ## Getting Started
